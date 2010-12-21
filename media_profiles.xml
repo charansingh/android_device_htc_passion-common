@@ -83,7 +83,7 @@
                    bitRate="3000000"
                    width="720"
                    height="480"
-                   frameRate="27" />
+                   frameRate="15" />
 
             <Audio codec="aac"
                    bitRate="96000"
@@ -125,7 +125,7 @@
         minBitRate="64000" maxBitRate="3000000"
         minFrameWidth="176" maxFrameWidth="800"
         minFrameHeight="144" maxFrameHeight="480"
-        minFrameRate="27" maxFrameRate="27" />
+        minFrameRate="15" maxFrameRate="30" />
 
     <VideoEncoderCap name="h263" enabled="true"
         minBitRate="64000" maxBitRate="1000000"
